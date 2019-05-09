@@ -1,0 +1,21 @@
+body{
+    background-color: silver;
+}
+    
+table{
+    margin-bottom: 5vh;
+}
+ 
+td {
+    border: 2px solid silver;
+    background-color: black;
+    width: 20vh;
+    height: 20vh;
+    text-align: center;
+    font-size: 10vh;
+    color: whitesmoke;
+}
+
+h5{
+    margin-bottom: 5vh;
+}
